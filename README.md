@@ -4,5 +4,5 @@ I didn't make this [theme](https://github.com/discordStyles/FrostedGlass/) credi
 
 ## Link for online themes
 ```
-https://raw.githubusercontent.com/Riley-VM/My-Discord-theme/refs/heads/master/FrostedGlass.theme.css
+https://riley-vm.github.io/My-Discord-theme/FrostedGlass.theme.css
 ```
