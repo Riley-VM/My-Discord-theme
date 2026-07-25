@@ -100,12 +100,11 @@
   font-style: italic;
 }
 
-:root {
+
   --font-primary: "Comic Sans MS", cursive;
   --font-display: "Comic Sans MS", cursive;
   --font: "Comic Sans MS", cursive;
-}
-}
+
   /*
    * ~~DO NOT TOUCH~~
    * Removing this will display an annoying update banner.
