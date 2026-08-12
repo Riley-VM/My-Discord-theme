@@ -101,9 +101,9 @@
 }
 
 
-  --font-primary: "Comic Sans MS", cursive;
-  --font-display: "Comic Sans MS", cursive;
-  --font: "Comic Sans MS", cursive;
+  --font-primary: "Comic Sans MS";
+  --font-display: "Comic Sans MS";
+  --font: "Comic Sans MS";
 
   /*
    * ~~DO NOT TOUCH~~
